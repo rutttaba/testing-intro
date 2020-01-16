@@ -37,5 +37,4 @@ describe("List component", () => {
     expect(list).toMatchSnapshot();
   });
 
-
 })
